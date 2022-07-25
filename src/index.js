@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDom from 'react-dom';
- function App(){
+ function Bunny(){
    return(
-     <h1>Hello User from React JS</h1>
+     <h1>Hello Praneeth from React JS</h1>
    )
  }
 
- ReactDom.render(<App/>,document.getElementById('root'))
+ ReactDom.render(<Bunny/>,document.getElementById('root'))
